@@ -1,0 +1,23 @@
+/* CSS Document for HC Mobile Apps*/
+* {
+ -webkit-user-select: none;
+}
+body {
+background-color:#000;	
+}
+#app_container {
+background-color:#FFFFFF;
+margin: 0 0;
+padding: 0px;
+height: 480px;
+width: 320px;	
+color: #000;
+border-radius: 10px;
+border: 1px solid #000;
+font-size: 11px;
+}
+
+h1 {
+font-size: 18px;	
+color: #000033;
+}
